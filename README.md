@@ -1,3 +1,4 @@
+<img align="center" width="100%" src="gitimg01.jpg">
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
 <h3 align="center">A passionate back-end & frontend developer from India</h3>
 
