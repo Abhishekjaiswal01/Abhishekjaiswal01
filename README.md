@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="gitimg02.png">
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
-<h3 align="center">A passionate back-end & frontend developer from India</h3>
+<h3 align="center">A passionate back-end & front-end developer from India</h3>
 
 - 🌱 I’m currently learning **Django & React & AWS**
 
